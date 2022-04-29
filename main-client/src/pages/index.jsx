@@ -4,7 +4,7 @@ import Hero from '../components/Hero'
 import Info from '../components/Info'
 import { homeObjOne, homeObjTwo, homeObjThree} from '../components/Info/Data';
 import Navbar from '../components/Navbar'
-import Services from '../components/Services';
+import Services from '../components/Surprise';
 import Sidebar from '../components/SideBar'
 
 const Home = () => {
